@@ -124,4 +124,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-Feel free to customize this description based on your project specifics! Let me know if you’d like help generating a `requirements.txt` file or setting up the repository.
